@@ -1,16 +1,13 @@
-## Hi there 👋
+My name is Dmitro. I'm python developer. 
 
-<!--
-**tunforjob/tunforjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Competencies
+- Python: Deep understanding and ability to work with different versions of the language.  
+- Frameworks and Libraries: FastAPI, Django, SQLAlchemy, Tortoise ORM, Pydantic, Scrapy.  
+- Databases: MySQL, MongoDB, Redis.  
+- Asynchronous and Multithreaded Programming: Proficient in using asyncio and threading to ensure high performance.  
+- Microservices Architecture: Knowledge of RabbitMQ, Redis Pub/Sub, and containerization (Docker).  
+- Testing and Deployment: Familiar with Docker, Kubernetes, Jenkins, and CI/CD practices.  
+- Networking: Experience in developing RESTful APIs, understanding data protocols, authorization principles, and network security.  
+- Teamwork: Confident in using collaboration tools such as Git and interacting with various teams (frontend developers, managers).  
+- Industry Standards: Applying design patterns and engineering approaches in development.
